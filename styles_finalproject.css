@@ -1,0 +1,20 @@
+@charset "utf-8";
+.heading {
+	font-family: AUdimat, Helvetica, sans-serif;
+	font-size: 24px;
+	font-weight: bold;
+	color: #366;
+	text-align: center;
+	font-style: normal;
+	line-height: normal;
+	font-variant: normal;
+	text-transform: uppercase;
+	background-color: #15D8F3;
+}
+.menu_bar {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	color: #000;
+	text-align: center;
+}
